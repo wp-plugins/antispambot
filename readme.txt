@@ -2,8 +2,8 @@
 Contributors: robert.peake
 Tags: comments, spam
 Requires at least: 3.0.1
-Tested up to: 4.0
-Stable tag: 4.3
+Tested up to: 4.2.2
+Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -35,7 +35,8 @@ The only foolproof way to ensure email addresses do not get harvested from a web
 
 == Changelog ==
 
-0.1-alpha - Initial release
+ * 1.0 - upgraded to stable version after eight months in the wild
+ * 0.1-alpha - Initial release
 
 == Upgrade Notice ==
 
