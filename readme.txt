@@ -1,5 +1,5 @@
 === Anti-Spambot ===
-Contributors: robert.peake
+Contributors: robertpeake, robert.peake
 Tags: comments, spam
 Requires at least: 3.0.1
 Tested up to: 4.2.2
